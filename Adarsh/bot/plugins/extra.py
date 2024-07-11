@@ -17,7 +17,7 @@ async def maintainers(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="ɪ  ᴀᴍ  ᴍᴀɪɴᴛᴀɪɴᴇᴅ  ʙʏ  [ʀᴀʜᴜʟ](https://t.me/TMR_DEVELOPER)",
+                    text="ɪ  ᴀᴍ  ᴍᴀɪɴᴛᴀɪɴᴇᴅ  ʙʏ  [Vishal](https://t.me/TMR_DEVELOPER)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
